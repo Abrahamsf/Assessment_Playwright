@@ -1,0 +1,5942 @@
+{
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "name": {
+        "type": "object",
+        "properties": {
+          "common": {
+            "type": "string"
+          },
+          "official": {
+            "type": "string"
+          },
+          "nativeName": {
+            "type": "object",
+            "properties": {
+              "eng": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "fra": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "gsw": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "ita": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "roh": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "hun": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "zho": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "ara": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "ind": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "por": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "lao": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "nld": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "pap": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "swa": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "cat": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "run": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "afr": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "nbl": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "nso": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "sot": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "ssw": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "tsn": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "tso": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "ven": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "xho": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "zul": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "spa": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "cal": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "cha": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "mkd": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "nfr": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "nor": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "dan": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "fao": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "rus": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "uzb": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "sin": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "tam": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "ben": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "aym": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "que": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "msa": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "tur": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "prs": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "pus": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "tuk": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "rar": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "fin": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "swe": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "smo": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "tkl": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "pov": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "aze": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "kor": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "mfe": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "ell": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "hrv": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "ber": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "fij": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "hif": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "deu": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "nep": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "kat": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "urd": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "hmo": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "tpi": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "pih": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "mlg": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "hin": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "cnr": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "grn": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "ukr": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "glv": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "her": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "hgm": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "kwn": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "loz": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "ndo": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "bul": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "kal": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "khm": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "arc": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "ckb": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "kir": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "nya": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "bos": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "srp": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "amh": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "slv": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "mah": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "isl": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "ltz": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "nau": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "mey": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "tha": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "hat": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "tvl": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "bel": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "lav": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "pau": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "fil": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "kon": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "lin": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "lua": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "som": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "ces": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "slk": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "bis": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "niu": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "kin": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "est": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "ron": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "tet": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "vie": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "lat": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "bar": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "gle": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "nno": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "nob": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "smi": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "sag": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "tir": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "lit": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "kaz": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "hye": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "nrf": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "jpn": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "crs": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "tgk": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "mlt": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "sqi": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "div": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "fas": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "bjz": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "mya": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "dzo": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "jam": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "pol": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "zdj": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "ton": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "gil": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "bwg": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "kck": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "khi": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "ndc": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "nde": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "sna": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "toi": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "zib": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "mon": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "heb": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "mri": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              },
+              "nzs": {
+                "type": "object",
+                "properties": {
+                  "official": {
+                    "type": "string"
+                  },
+                  "common": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "official",
+                  "common"
+                ]
+              }
+            }
+          }
+        },
+        "required": [
+          "common",
+          "official"
+        ]
+      },
+      "tld": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "cca2": {
+        "type": "string"
+      },
+      "ccn3": {
+        "type": "string"
+      },
+      "cca3": {
+        "type": "string"
+      },
+      "independent": {
+        "type": "boolean"
+      },
+      "status": {
+        "type": "string"
+      },
+      "unMember": {
+        "type": "boolean"
+      },
+      "currencies": {
+        "type": "object",
+        "properties": {
+          "SHP": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "XCD": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "CHF": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "SLL": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "HUF": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "TWD": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "XPF": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "BBD": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "NZD": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "XOF": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "TND": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "EUR": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "IDR": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "CVE": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "LAK": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "USD": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "UGX": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "BIF": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "ZAR": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "LYD": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "MXN": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "XAF": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "MKD": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "CNY": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "YER": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "GBP": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "GGP": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "SBD": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "NOK": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "DKK": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "FOK": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "UZS": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "EGP": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "LKR": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "ILS": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "JOD": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "BDT": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "PEN": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "SGD": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "TRY": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "AFN": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "AWG": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "CKD": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "ZMW": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "AUD": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "AZN": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "DJF": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "KPW": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "MUR": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "COP": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "MAD": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "DZD": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "SDG": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "FJD": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "NPR": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "GEL": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "PKR": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "BWP": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "LBP": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "PGK": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "DOP": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "QAR": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "MGA": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "INR": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "SYP": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "SZL": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "PYG": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "UAH": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "IMP": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "NAD": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "AED": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "BGN": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "KHR": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "IQD": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "SEK": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "CUC": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "CUP": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "KGS": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "RUB": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "MYR": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "STN": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "CAD": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "MWK": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "SAR": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "BAM": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "ETB": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "OMR": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "MOP": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "LSL": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "ANG": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "ISK": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "ARS": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "MRU": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "CRC": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "THB": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "HTG": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "TVD": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "HNL": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "BYN": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "PHP": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "GIP": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "GNF": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "BHD": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "SRD": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "CDF": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "SOS": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "CZK": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "VUV": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "KES": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "RWF": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "RON": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "TTD": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "GYD": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "VND": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "UYU": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "HKD": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "TMT": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "MZN": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "PAB": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "ERN": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "TZS": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "KRW": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "AOA": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "KZT": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "MDL": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "FKP": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "AMD": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "WST": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "JEP": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "JPY": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "BOB": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "CLP": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "BMD": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "SCR": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "GTQ": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "TJS": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "GMD": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "NGN": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "BSD": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "KWD": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "MVR": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "SSP": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "IRR": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "ALL": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "BRL": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "RSD": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "BZD": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "MMK": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "BTN": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "VES": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "LRD": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "JMD": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "PLN": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "KYD": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "BND": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "KMF": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "TOP": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "KID": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "GHS": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "ZWL": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "MNT": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          },
+          "NIO": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "symbol": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "symbol"
+            ]
+          }
+        }
+      },
+      "idd": {
+        "type": "object",
+        "properties": {
+          "root": {
+            "type": "string"
+          },
+          "suffixes": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      },
+      "capital": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "altSpellings": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "region": {
+        "type": "string"
+      },
+      "languages": {
+        "type": "object",
+        "properties": {
+          "eng": {
+            "type": "string"
+          },
+          "fra": {
+            "type": "string"
+          },
+          "gsw": {
+            "type": "string"
+          },
+          "ita": {
+            "type": "string"
+          },
+          "roh": {
+            "type": "string"
+          },
+          "hun": {
+            "type": "string"
+          },
+          "zho": {
+            "type": "string"
+          },
+          "ara": {
+            "type": "string"
+          },
+          "ind": {
+            "type": "string"
+          },
+          "por": {
+            "type": "string"
+          },
+          "lao": {
+            "type": "string"
+          },
+          "nld": {
+            "type": "string"
+          },
+          "pap": {
+            "type": "string"
+          },
+          "swa": {
+            "type": "string"
+          },
+          "cat": {
+            "type": "string"
+          },
+          "run": {
+            "type": "string"
+          },
+          "afr": {
+            "type": "string"
+          },
+          "nbl": {
+            "type": "string"
+          },
+          "nso": {
+            "type": "string"
+          },
+          "sot": {
+            "type": "string"
+          },
+          "ssw": {
+            "type": "string"
+          },
+          "tsn": {
+            "type": "string"
+          },
+          "tso": {
+            "type": "string"
+          },
+          "ven": {
+            "type": "string"
+          },
+          "xho": {
+            "type": "string"
+          },
+          "zul": {
+            "type": "string"
+          },
+          "spa": {
+            "type": "string"
+          },
+          "cal": {
+            "type": "string"
+          },
+          "cha": {
+            "type": "string"
+          },
+          "mkd": {
+            "type": "string"
+          },
+          "nfr": {
+            "type": "string"
+          },
+          "nor": {
+            "type": "string"
+          },
+          "dan": {
+            "type": "string"
+          },
+          "fao": {
+            "type": "string"
+          },
+          "rus": {
+            "type": "string"
+          },
+          "uzb": {
+            "type": "string"
+          },
+          "sin": {
+            "type": "string"
+          },
+          "tam": {
+            "type": "string"
+          },
+          "ben": {
+            "type": "string"
+          },
+          "aym": {
+            "type": "string"
+          },
+          "que": {
+            "type": "string"
+          },
+          "msa": {
+            "type": "string"
+          },
+          "tur": {
+            "type": "string"
+          },
+          "prs": {
+            "type": "string"
+          },
+          "pus": {
+            "type": "string"
+          },
+          "tuk": {
+            "type": "string"
+          },
+          "rar": {
+            "type": "string"
+          },
+          "fin": {
+            "type": "string"
+          },
+          "swe": {
+            "type": "string"
+          },
+          "smo": {
+            "type": "string"
+          },
+          "tkl": {
+            "type": "string"
+          },
+          "pov": {
+            "type": "string"
+          },
+          "aze": {
+            "type": "string"
+          },
+          "kor": {
+            "type": "string"
+          },
+          "mfe": {
+            "type": "string"
+          },
+          "ell": {
+            "type": "string"
+          },
+          "hrv": {
+            "type": "string"
+          },
+          "ber": {
+            "type": "string"
+          },
+          "fij": {
+            "type": "string"
+          },
+          "hif": {
+            "type": "string"
+          },
+          "deu": {
+            "type": "string"
+          },
+          "nep": {
+            "type": "string"
+          },
+          "kat": {
+            "type": "string"
+          },
+          "urd": {
+            "type": "string"
+          },
+          "hmo": {
+            "type": "string"
+          },
+          "tpi": {
+            "type": "string"
+          },
+          "pih": {
+            "type": "string"
+          },
+          "mlg": {
+            "type": "string"
+          },
+          "hin": {
+            "type": "string"
+          },
+          "cnr": {
+            "type": "string"
+          },
+          "grn": {
+            "type": "string"
+          },
+          "ukr": {
+            "type": "string"
+          },
+          "glv": {
+            "type": "string"
+          },
+          "her": {
+            "type": "string"
+          },
+          "hgm": {
+            "type": "string"
+          },
+          "kwn": {
+            "type": "string"
+          },
+          "loz": {
+            "type": "string"
+          },
+          "ndo": {
+            "type": "string"
+          },
+          "bul": {
+            "type": "string"
+          },
+          "kal": {
+            "type": "string"
+          },
+          "khm": {
+            "type": "string"
+          },
+          "arc": {
+            "type": "string"
+          },
+          "ckb": {
+            "type": "string"
+          },
+          "kir": {
+            "type": "string"
+          },
+          "nya": {
+            "type": "string"
+          },
+          "bos": {
+            "type": "string"
+          },
+          "srp": {
+            "type": "string"
+          },
+          "amh": {
+            "type": "string"
+          },
+          "eus": {
+            "type": "string"
+          },
+          "glc": {
+            "type": "string"
+          },
+          "slv": {
+            "type": "string"
+          },
+          "mah": {
+            "type": "string"
+          },
+          "isl": {
+            "type": "string"
+          },
+          "ltz": {
+            "type": "string"
+          },
+          "nau": {
+            "type": "string"
+          },
+          "mey": {
+            "type": "string"
+          },
+          "tha": {
+            "type": "string"
+          },
+          "hat": {
+            "type": "string"
+          },
+          "tvl": {
+            "type": "string"
+          },
+          "bel": {
+            "type": "string"
+          },
+          "lav": {
+            "type": "string"
+          },
+          "pau": {
+            "type": "string"
+          },
+          "fil": {
+            "type": "string"
+          },
+          "kon": {
+            "type": "string"
+          },
+          "lin": {
+            "type": "string"
+          },
+          "lua": {
+            "type": "string"
+          },
+          "som": {
+            "type": "string"
+          },
+          "ces": {
+            "type": "string"
+          },
+          "slk": {
+            "type": "string"
+          },
+          "bis": {
+            "type": "string"
+          },
+          "niu": {
+            "type": "string"
+          },
+          "kin": {
+            "type": "string"
+          },
+          "est": {
+            "type": "string"
+          },
+          "ron": {
+            "type": "string"
+          },
+          "tet": {
+            "type": "string"
+          },
+          "vie": {
+            "type": "string"
+          },
+          "lat": {
+            "type": "string"
+          },
+          "de": {
+            "type": "string"
+          },
+          "gle": {
+            "type": "string"
+          },
+          "nno": {
+            "type": "string"
+          },
+          "nob": {
+            "type": "string"
+          },
+          "smi": {
+            "type": "string"
+          },
+          "sag": {
+            "type": "string"
+          },
+          "tir": {
+            "type": "string"
+          },
+          "lit": {
+            "type": "string"
+          },
+          "kaz": {
+            "type": "string"
+          },
+          "hye": {
+            "type": "string"
+          },
+          "nrf": {
+            "type": "string"
+          },
+          "jpn": {
+            "type": "string"
+          },
+          "crs": {
+            "type": "string"
+          },
+          "tgk": {
+            "type": "string"
+          },
+          "mlt": {
+            "type": "string"
+          },
+          "sqi": {
+            "type": "string"
+          },
+          "div": {
+            "type": "string"
+          },
+          "fas": {
+            "type": "string"
+          },
+          "bjz": {
+            "type": "string"
+          },
+          "mya": {
+            "type": "string"
+          },
+          "dzo": {
+            "type": "string"
+          },
+          "jam": {
+            "type": "string"
+          },
+          "pol": {
+            "type": "string"
+          },
+          "zdj": {
+            "type": "string"
+          },
+          "ton": {
+            "type": "string"
+          },
+          "gil": {
+            "type": "string"
+          },
+          "bwg": {
+            "type": "string"
+          },
+          "kck": {
+            "type": "string"
+          },
+          "khi": {
+            "type": "string"
+          },
+          "ndc": {
+            "type": "string"
+          },
+          "nde": {
+            "type": "string"
+          },
+          "sna": {
+            "type": "string"
+          },
+          "toi": {
+            "type": "string"
+          },
+          "zib": {
+            "type": "string"
+          },
+          "mon": {
+            "type": "string"
+          },
+          "heb": {
+            "type": "string"
+          },
+          "mri": {
+            "type": "string"
+          },
+          "nzs": {
+            "type": "string"
+          }
+        }
+      },
+      "translations": {
+        "type": "object",
+        "properties": {
+          "ara": {
+            "type": "object",
+            "properties": {
+              "official": {
+                "type": "string"
+              },
+              "common": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "official",
+              "common"
+            ]
+          },
+          "bre": {
+            "type": "object",
+            "properties": {
+              "official": {
+                "type": "string"
+              },
+              "common": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "official",
+              "common"
+            ]
+          },
+          "ces": {
+            "type": "object",
+            "properties": {
+              "official": {
+                "type": "string"
+              },
+              "common": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "official",
+              "common"
+            ]
+          },
+          "cym": {
+            "type": "object",
+            "properties": {
+              "official": {
+                "type": "string"
+              },
+              "common": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "official",
+              "common"
+            ]
+          },
+          "deu": {
+            "type": "object",
+            "properties": {
+              "official": {
+                "type": "string"
+              },
+              "common": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "official",
+              "common"
+            ]
+          },
+          "est": {
+            "type": "object",
+            "properties": {
+              "official": {
+                "type": "string"
+              },
+              "common": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "official",
+              "common"
+            ]
+          },
+          "fin": {
+            "type": "object",
+            "properties": {
+              "official": {
+                "type": "string"
+              },
+              "common": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "official",
+              "common"
+            ]
+          },
+          "fra": {
+            "type": "object",
+            "properties": {
+              "official": {
+                "type": "string"
+              },
+              "common": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "official",
+              "common"
+            ]
+          },
+          "hrv": {
+            "type": "object",
+            "properties": {
+              "official": {
+                "type": "string"
+              },
+              "common": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "official",
+              "common"
+            ]
+          },
+          "hun": {
+            "type": "object",
+            "properties": {
+              "official": {
+                "type": "string"
+              },
+              "common": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "official",
+              "common"
+            ]
+          },
+          "ita": {
+            "type": "object",
+            "properties": {
+              "official": {
+                "type": "string"
+              },
+              "common": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "official",
+              "common"
+            ]
+          },
+          "jpn": {
+            "type": "object",
+            "properties": {
+              "official": {
+                "type": "string"
+              },
+              "common": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "official",
+              "common"
+            ]
+          },
+          "kor": {
+            "type": "object",
+            "properties": {
+              "official": {
+                "type": "string"
+              },
+              "common": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "official",
+              "common"
+            ]
+          },
+          "nld": {
+            "type": "object",
+            "properties": {
+              "official": {
+                "type": "string"
+              },
+              "common": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "official",
+              "common"
+            ]
+          },
+          "per": {
+            "type": "object",
+            "properties": {
+              "official": {
+                "type": "string"
+              },
+              "common": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "official",
+              "common"
+            ]
+          },
+          "pol": {
+            "type": "object",
+            "properties": {
+              "official": {
+                "type": "string"
+              },
+              "common": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "official",
+              "common"
+            ]
+          },
+          "por": {
+            "type": "object",
+            "properties": {
+              "official": {
+                "type": "string"
+              },
+              "common": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "official",
+              "common"
+            ]
+          },
+          "rus": {
+            "type": "object",
+            "properties": {
+              "official": {
+                "type": "string"
+              },
+              "common": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "official",
+              "common"
+            ]
+          },
+          "slk": {
+            "type": "object",
+            "properties": {
+              "official": {
+                "type": "string"
+              },
+              "common": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "official",
+              "common"
+            ]
+          },
+          "spa": {
+            "type": "object",
+            "properties": {
+              "official": {
+                "type": "string"
+              },
+              "common": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "official",
+              "common"
+            ]
+          },
+          "srp": {
+            "type": "object",
+            "properties": {
+              "official": {
+                "type": "string"
+              },
+              "common": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "official",
+              "common"
+            ]
+          },
+          "swe": {
+            "type": "object",
+            "properties": {
+              "official": {
+                "type": "string"
+              },
+              "common": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "official",
+              "common"
+            ]
+          },
+          "tur": {
+            "type": "object",
+            "properties": {
+              "official": {
+                "type": "string"
+              },
+              "common": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "official",
+              "common"
+            ]
+          },
+          "urd": {
+            "type": "object",
+            "properties": {
+              "official": {
+                "type": "string"
+              },
+              "common": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "official",
+              "common"
+            ]
+          },
+          "zho": {
+            "type": "object",
+            "properties": {
+              "official": {
+                "type": "string"
+              },
+              "common": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "official",
+              "common"
+            ]
+          }
+        },
+        "required": [
+          "ara",
+          "bre",
+          "ces",
+          "cym",
+          "deu",
+          "est",
+          "fin",
+          "fra",
+          "hun",
+          "ita",
+          "kor",
+          "nld",
+          "pol",
+          "por",
+          "rus",
+          "slk",
+          "spa",
+          "srp",
+          "swe",
+          "tur",
+          "urd"
+        ]
+      },
+      "latlng": {
+        "type": "array",
+        "items": {
+          "type": "number"
+        }
+      },
+      "landlocked": {
+        "type": "boolean"
+      },
+      "area": {
+        "type": "number"
+      },
+      "demonyms": {
+        "type": "object",
+        "properties": {
+          "eng": {
+            "type": "object",
+            "properties": {
+              "f": {
+                "type": "string"
+              },
+              "m": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "f",
+              "m"
+            ]
+          },
+          "fra": {
+            "type": "object",
+            "properties": {
+              "f": {
+                "type": "string"
+              },
+              "m": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "f",
+              "m"
+            ]
+          }
+        },
+        "required": [
+          "eng"
+        ]
+      },
+      "flag": {
+        "type": "string"
+      },
+      "maps": {
+        "type": "object",
+        "properties": {
+          "googleMaps": {
+            "type": "string"
+          },
+          "openStreetMaps": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "googleMaps",
+          "openStreetMaps"
+        ]
+      },
+      "population": {
+        "type": "integer"
+      },
+      "car": {
+        "type": "object",
+        "properties": {
+          "signs": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "side": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "side"
+        ]
+      },
+      "timezones": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "continents": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "flags": {
+        "type": "object",
+        "properties": {
+          "png": {
+            "type": "string"
+          },
+          "svg": {
+            "type": "string"
+          },
+          "alt": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "png",
+          "svg"
+        ]
+      },
+      "coatOfArms": {
+        "type": "object",
+        "properties": {
+          "png": {
+            "type": "string"
+          },
+          "svg": {
+            "type": "string"
+          }
+        }
+      },
+      "startOfWeek": {
+        "type": "string"
+      },
+      "capitalInfo": {
+        "type": "object",
+        "properties": {
+          "latlng": {
+            "type": "array",
+            "items": {
+              "type": "number"
+            }
+          }
+        }
+      },
+      "cioc": {
+        "type": "string"
+      },
+      "subregion": {
+        "type": "string"
+      },
+      "fifa": {
+        "type": "string"
+      },
+      "borders": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "gini": {
+        "type": "object",
+        "properties": {
+          "1992": {
+            "type": "number"
+          },
+          "1998": {
+            "type": "number"
+          },
+          "1999": {
+            "type": "number"
+          },
+          "2003": {
+            "type": "number"
+          },
+          "2004": {
+            "type": "number"
+          },
+          "2005": {
+            "type": "number"
+          },
+          "2006": {
+            "type": "number"
+          },
+          "2008": {
+            "type": "number"
+          },
+          "2009": {
+            "type": "number"
+          },
+          "2010": {
+            "type": "number"
+          },
+          "2011": {
+            "type": "number"
+          },
+          "2012": {
+            "type": "number"
+          },
+          "2013": {
+            "type": "number"
+          },
+          "2014": {
+            "type": "number"
+          },
+          "2015": {
+            "type": "number"
+          },
+          "2016": {
+            "type": "number"
+          },
+          "2017": {
+            "type": "number"
+          },
+          "2018": {
+            "type": "number"
+          },
+          "2019": {
+            "type": "number"
+          }
+        }
+      },
+      "postalCode": {
+        "type": "object",
+        "properties": {
+          "format": {
+            "type": "string"
+          },
+          "regex": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "format"
+        ]
+      }
+    },
+    "required": [
+      "name",
+      "cca2",
+      "cca3",
+      "status",
+      "unMember",
+      "idd",
+      "altSpellings",
+      "region",
+      "translations",
+      "latlng",
+      "landlocked",
+      "area",
+      "flag",
+      "maps",
+      "population",
+      "car",
+      "timezones",
+      "continents",
+      "flags",
+      "coatOfArms",
+      "startOfWeek",
+      "capitalInfo"
+    ]
+  }
+}

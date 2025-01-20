@@ -1,0 +1,7 @@
+{ 
+    "baseurl": "https://www.bbc.com/sport", 
+    "firstDriver": "Max Verstappen",
+    "secondDriver": "George Russell",
+    "thirdDriver": "Sergio Perez",
+    "searchQuery": "Sport in 2023"
+}    
